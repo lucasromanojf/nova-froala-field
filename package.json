@@ -13,6 +13,7 @@
         "lint": "eslint resources/js --fix --ext js,vue"
     },
     "devDependencies": {
+        "@babel/runtime-corejs2": "^7.4.4",
         "cross-env": "^5.0.0",
         "eslint": "^5.6.0",
         "eslint-config-prettier": "^3.1.0",

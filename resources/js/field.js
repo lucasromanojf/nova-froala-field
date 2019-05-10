@@ -1,4 +1,5 @@
 require('froala-editor/js/froala_editor.pkgd.min');
+require('froala-editor/js/languages/pt_br');
 
 import VueFroala from 'vue-froala-wysiwyg';
 
